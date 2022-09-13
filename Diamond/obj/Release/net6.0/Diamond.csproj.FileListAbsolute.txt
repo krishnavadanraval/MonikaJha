@@ -1,0 +1,15 @@
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\bin\Release\net6.0\Diamond.exe
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\bin\Release\net6.0\Diamond.deps.json
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\bin\Release\net6.0\Diamond.runtimeconfig.json
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\bin\Release\net6.0\Diamond.dll
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\bin\Release\net6.0\Diamond.pdb
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\obj\Release\net6.0\Diamond.csproj.AssemblyReference.cache
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\obj\Release\net6.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\obj\Release\net6.0\Diamond.AssemblyInfoInputs.cache
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\obj\Release\net6.0\Diamond.AssemblyInfo.cs
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\obj\Release\net6.0\Diamond.csproj.CoreCompileInputs.cache
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\obj\Release\net6.0\Diamond.dll
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\obj\Release\net6.0\refint\Diamond.dll
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\obj\Release\net6.0\Diamond.pdb
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\obj\Release\net6.0\Diamond.genruntimeconfig.cache
+C:\Monika\Visual Studio Projects\Lab1\Diamond\Diamond\obj\Release\net6.0\ref\Diamond.dll
