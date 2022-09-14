@@ -24,7 +24,7 @@ namespace Diamond
 
                     {
                         int number = val - 65;
-                        Console.WriteLine(val);
+                        //Console.WriteLine(val);
                         ch = 'A';
                         for (int i = 0; i <= number; i++)
                         {
